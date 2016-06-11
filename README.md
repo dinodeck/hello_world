@@ -1,2 +1,4 @@
-# hello_world
-The Hello World projects supplied on the website.
+# Hello World
+
+These are the two Hello World projects for the Dinodeck engine.
+
